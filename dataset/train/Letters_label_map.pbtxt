@@ -1,0 +1,10 @@
+item {
+    name: "bottom",
+    id: 1,
+    display_name: "bottom"
+}
+item {
+    name: "stamp",
+    id: 2,
+    display_name: "stamp"
+}
